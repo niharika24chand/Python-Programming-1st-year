@@ -1,0 +1,3 @@
+We are learning file handling in python.
+this is my first year.
+I have prior experience in C and basic java.Now the file has more content!

@@ -1,0 +1,6 @@
+We have 5 subjects in this semester:
+dsa
+coa
+maths
+python
+physics
